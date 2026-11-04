@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "pluggy": {
+      "type": "http",
+      "url": "https://mcp.pluggy.ai/mcp"
+    },
+    "plaid": {
+      "type": "stdio",
+      "command": "C:\\Users\\vinic\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts\\uvx.exe",
+      "args": ["--env-file", ".env", "mcp-server-plaid"]
+    }
+  }
+}
